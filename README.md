@@ -19,10 +19,11 @@
 ---
 
 ## 📱 App Preview
+
 | Welcome Screen | Dashboard | Plant Details |
 |:--------------:|:---------:|:-------------:|
-| <img src="https://via.placeholder.com/200x400?text=Welcome+Screen" width="200" /> | <img src="https://via.placeholder.com/200x400?text=Dashboard" width="200" /> | <img src="https://via.placeholder.com/200x400?text=Plant+Details" width="200" /> |
-> *Replace placeholder URLs with your actual screenshot links.*
+| <img width="381" height="801" alt="Screenshot 2026-01-01 at 5 10 42 PM" src="https://github.com/user-attachments/assets/dc291f8a-47e2-49a0-becf-53c1c0c3395d" /> | <img width="380" height="790" alt="Screenshot 2026-01-01 at 5 11 08 PM" src="https://github.com/user-attachments/assets/122b2330-d540-475d-babd-9c7933fd3249" /> | <img width="369" height="797" alt="Screenshot 2026-01-01 at 5 11 36 PM" src="https://github.com/user-attachments/assets/8b545e90-6d12-4f6d-bf5b-b6f27f21dd4e" /> |
+
 
 ---
 
